@@ -55,30 +55,6 @@
 <div>
 <h2>🛠️ Tech Stack</h2>
 
-<style>
-  /* Styles for progress bars */
-  .progress-container {
-    width: 100%;
-    background-color: #e0e0df;
-    border-radius: 20px;
-    margin: 5px 0;
-  }
-
-  .progress-bar {
-    height: 15px;
-    border-radius: 20px;
-    text-align: center;
-    color: white;
-  }
-
-  .python { width: 85%; background-color: #4caf50; } /* Python */
-  .c { width: 70%; background-color: #2196f3; } /* C */
-  .sql { width: 65%; background-color: #f44336; } /* SQL */
-  .pandas { width: 80%; background-color: #9c27b0; } /* Pandas */
-  .sklearn { width: 75%; background-color: #ff9800; } /* Scikit-learn */
-  .Matlab{ width : 55%; background-color: #FF2400; }/* Matlab */
-  .git { width: 90%; background-color: #607d8b; } /* Git */
-</style>
 
 <table>
   <thead>
