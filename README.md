@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img alt="snake eating my contributions" src="https://github.com/SVG-Edit/svgedit/blob/master/badges/coverage-badge.svg" />
+  <img alt="snake eating my contributions" src="https://codepen.io/chrisgannon/pen/3443855ffc8fdfb2a036cdc9f200e90c" />
   
   <br/><br/>
 </div>
