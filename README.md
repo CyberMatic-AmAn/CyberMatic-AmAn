@@ -38,7 +38,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
-    <img src="https://camo.githubusercontent.com/83b8fe0a3ea1311f6cdf3581ea2635004e9f69438b1f92a0b788b52cfb10e193/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d617870726f6772616d6d6572303037267468656d653d6d6174726978"/>
     <img src="https://skillicons.dev/icons?i=nodejs,vscode,c,angular,mongodb,mysql,flask" /><br>
 </div>
 
