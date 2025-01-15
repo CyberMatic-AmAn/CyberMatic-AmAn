@@ -64,7 +64,7 @@
         <div class="progress-container">
           <div class="progress-bar python"></div>
         </div>
-        <strong>C</strong>
+        <strong>C++</strong>
         <div class="progress-container">
           <div class="progress-bar c"></div>
         </div>
