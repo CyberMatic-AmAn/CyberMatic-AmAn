@@ -1,115 +1,65 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> -->
+# 🎮 Player Profile: CyberMatic-AmAn
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CM+AmAn+!;+Follow🔎+me+for+more;" />
-</h1>
+---
 
-<h3 align="center">A learning student👨🏻‍🎓 from India 🇮🇳</h3>
+## 👤 Character Details
 
-<br/>
+| Field           | Details                           |                                             | Stat              | Value       | Progress          |       
+|-----------------|-----------------------------------| --------------------------------------------|-------------------|-------------|-------------------|       
+| **Real Name**   | Aman Sonwani                     |                                              | **Code Hit Points** | 40/100    | ███████████░░░░░░░░░░░░░░ |       
+| **Location**    | India                            |                                              | **Debug Mana**    | 50/100      | █████████████░░░░░░░░░░░░ |      
+| **Joined**      | December 28, 2021                |                                              | **Commits**       | 70          | ![Commits](https://img.shields.io/badge/Commits-70-brightgreen) |                                                       
+| **Level**       | 18                               |                                              | **Pull Requests** | 45          | ![PR`s](https://img.shields.io/badge/PRs-45-blue) |      
+| **Class**       | Chaos Architect                  |                                              | **Bugs Fixed**    | 20          | ![Bug Fix](https://img.shields.io/badge/Bugs_Fixed-20-red) |      
+| **GitHub**      | [AmAn](https://github.com/CyberMatic-AmAn) |                                    | **Lines of Code** | 22,450      | ![LOC](https://img.shields.io/badge/LOC-22450-orange) |
+| **Email**       | linuxtex999@gmail.com            |                                              | **Experience**    | 30,000 XP   | █████████░░░░░░░░░░░░░░░░ |      
+                                                     |----------------------------------------------|
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **MY DREAM PROJECT** 
-      about which you will hear later....
- 
- 🌱 I’m currently learning **Statistical Regression**
+## Vault ☑️
 
-💬 Ask me about **App dev, Web dev or anything [here](https://forms.gle/oxf8G69evreCbZdcA)**
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sonwani-a95b0a326/)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/amanx13)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/amansonwani005) 
+[![Leetcode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/F8uHcUstNr/)
 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:exehyper999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://x.com/OperatorLinux" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://cybermatic-aman.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+---
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Development-Tools ⚒️</h2>
-<br/>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,vscode,c,angular,mongodb,mysql,flask" /><br>
-</div>
+## 🎒 Inventory ##
 
-<br/>
-<hr/>
-</div>
+| Language/Tool      | Mastery (%) | Progress               |
+|--------------------|-------------|------------------------|
+| **C++**            | 95          | ██████████████████░░░  |
+| **Python**         | 88          | ███████████████░░░░░░  |
+| **HTML/CSS**       | 90          | █████████████████░░░░  |
+| **Javascript**     | 88          | ██████████████░░░░░░░  |
+| **React**          | 85          | █████████████░░░░░░░░  |
+| **Node.js**        | 82          | ████████████░░░░░░░░░  |
+| **Git**            | 78          | ██████████░░░░░░░░░░░  |
 
-<div>
-<h2>🛠️ Tech Stack</h2>
+---
 
+## 📜 7 Developer Sins
 
-<table>
-  <thead>
-    <tr>
-      <th>💻 Languages</th>
-      <th>📊 Data Science & ML</th>
-      <th>⚙️ Tools & Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Python</strong>
-        <div class="progress-container">
-          <div class="progress-bar python"></div>
-        </div>
-        <strong>C++</strong>
-        <div class="progress-container">
-          <div class="progress-bar c"></div>
-        </div>
-        <strong>JAVA</strong>
-        <div class="progress-container">
-          <div class="progress-bar sql"></div>
-        </div>
-      </td>
-      <td>
-        <strong>Pandas</strong>
-        <div class="progress-container">
-          <div class="progress-bar pandas"></div>
-        </div>
-        <strong>Matlab</strong>
-        <div class="progress-container">
-          <div class="progress-bar Matlab"></div>
-        </div>
-        <strong>Scikit-learn</strong>
-        <div class="progress-container">
-          <div class="progress-bar sklearn"></div>
-        </div>
-      </td>
-      <td>
-        <strong>Git</strong>
-        <div class="progress-container">
-          <div class="progress-bar git"></div>
-        </div>
-        <strong>VS Code</strong>
-        <div class="progress-container">
-          <div class="progress-bar" style="width: 85%; background-color: #3f51b5;"></div>
-        </div>
-        <strong>Docker</strong>
-        <div class="progress-container">
-          <div class="progress-bar" style="width: 60%; background-color: #00bcd4;"></div>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Sin                | Score       |
+|--------------------|-------------|
+| **Pride (Refactors)** | 8        |
+| **Envy (Forked Repos)** | 10    |
+| **Wrath (Debug Rage)** | 12     |
+| **Sloth (Delayed PRs)** | 5     |
+| **Greed (Code Reuse)** | 15     |
+| **Gluttony (Over-optimization)** | 18 |
+| **Lust (New Tech)** | 25      |
 
-</div>
-
-<hr/>
-<!-- <div align="center"> -->
-
-<!-- </div> -->
+---
 
 
+## 📜 Quest Log
+
+| Quest Status       | Description              |
+|--------------------|--------------------------|
+| **Current Quest**  | Enhance ChaosLang 2.0    |
+| **Completed Quest**| Launched ChaosLang       |
+| **Next Quest**     | Integrate Quantum Features |
+
+---
