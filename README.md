@@ -1,4 +1,4 @@
-# 🎮 Player Profile: CyberMatic-AmAn
+# 🎮 Player Profile: AmAn
 
 ---
 
@@ -13,7 +13,7 @@
 | **Class**       | Chaos Architect                  |                                              | **Bugs Fixed**    | 20          | ![Bug Fix](https://img.shields.io/badge/Bugs_Fixed-20-red) |      
 | **GitHub**      | [AmAn](https://github.com/CyberMatic-AmAn) |                                    | **Lines of Code** | 22,450      | ![LOC](https://img.shields.io/badge/LOC-22450-orange) |
 | **Email**       | linuxtex999@gmail.com            |                                              | **Experience**    | 30,000 XP   | █████████░░░░░░░░░░░░░░░░ |      
-                                                     |----------------------------------------------|
+                                                     
 ---
 
 ## Vault ☑️
