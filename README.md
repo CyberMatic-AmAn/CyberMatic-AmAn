@@ -54,12 +54,3 @@
 ---
 
 
-## 📜 Quest Log
-
-| Quest Status       | Description              |
-|--------------------|--------------------------|
-| **Current Quest**  | Enhance ChaosLang 2.0    |
-| **Completed Quest**| Launched ChaosLang       |
-| **Next Quest**     | Integrate Quantum Features |
-
----
